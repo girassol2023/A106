@@ -1,0 +1,40 @@
+body {
+    background: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.header_div {
+    background: lightblue;
+    color: azure;
+}
+
+.header_div p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.main_div button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.rodape {
+    position: fixed;
+    color: brown;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(rgb(152, 0, 247), rgb(162, 209, 162), rgb(221, 196, 136));
+}
